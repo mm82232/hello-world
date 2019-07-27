@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+Hello, it`s me. I like reading and skating.
